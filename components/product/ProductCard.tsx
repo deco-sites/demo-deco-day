@@ -96,7 +96,7 @@ function ProductCard({
             "w-full",
           )}
         >
-          <Image
+          <img
             src={front.url!}
             alt={front.alternateName}
             width={WIDTH}

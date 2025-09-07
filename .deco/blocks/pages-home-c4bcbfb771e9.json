@@ -12,14 +12,9 @@
       "preload": true,
       "items": [
         {
-          "type": "video",
-          "action": {},
-          "video": "https://assets.decocache.com/demo-linkedin/8e6fc51d-c24a-4cc2-82a1-c82f110604cf/Gravacao-de-Tela-2025-08-21-as-15.51.23-(1).mp4",
-          "alt": "Video",
-          "autoplay": true,
-          "poster": "https://assets.decocache.com/demo-linkedin/e03b7221-75cc-417c-8af3-93931a93c235/f861a8453e5e7e7296125c4c3b2f12906f13f41e.jpg",
-          "muted": true,
-          "loop": true
+          "alt": "img",
+          "desktop": "https://assets.decocache.com/demo-deco-day/8d00ad71-64c3-4c46-a829-eebe7c7b1562/1742560219550-1226ef79-c7e0-403c-b716-b6b9af3f2936.png",
+          "mobile": "https://assets.decocache.com/demo-deco-day/7c1fb064-eb19-445c-9e14-a5caa723d9e4/image.webp"
         }
       ]
     },
@@ -44,18 +39,18 @@
       "__resolveType": "site/sections/Images/SecondaryImageCarousel.tsx",
       "images": [
         {
-          "image": "https://assets.decocache.com/demo-linkedin/202e4c27-61e8-47bf-b490-9e54600c070c/c2d91fdeca1169db15d499a27652282f1bf85fb3.png",
-          "mobileImage": "https://assets.decocache.com/demo-linkedin/202e4c27-61e8-47bf-b490-9e54600c070c/c2d91fdeca1169db15d499a27652282f1bf85fb3.png",
+          "image": "https://assets.decocache.com/demo-deco-day/0769fd9e-1876-4867-90ae-bd5c03f90f55/1742560212519-d26304f4-355b-48d0-b649-e24b9cbf0ded.png",
+          "mobileImage": "https://assets.decocache.com/demo-deco-day/0769fd9e-1876-4867-90ae-bd5c03f90f55/1742560212519-d26304f4-355b-48d0-b649-e24b9cbf0ded.png",
           "width": 1000,
           "height": 461,
           "alt": "Image 1"
         },
         {
-          "image": "https://assets.decocache.com/demo-linkedin/e03b7221-75cc-417c-8af3-93931a93c235/f861a8453e5e7e7296125c4c3b2f12906f13f41e.jpg",
-          "mobileImage": "https://assets.decocache.com/demo-linkedin/e03b7221-75cc-417c-8af3-93931a93c235/f861a8453e5e7e7296125c4c3b2f12906f13f41e.jpg",
+          "image": "https://assets.decocache.com/demo-deco-day/0769fd9e-1876-4867-90ae-bd5c03f90f55/1742560212519-d26304f4-355b-48d0-b649-e24b9cbf0ded.png",
+          "mobileImage": "https://assets.decocache.com/demo-deco-day/0769fd9e-1876-4867-90ae-bd5c03f90f55/1742560212519-d26304f4-355b-48d0-b649-e24b9cbf0ded.png",
           "width": 1000,
           "height": 461,
-          "alt": "Image 2"
+          "alt": "Image 1"
         }
       ]
     },
@@ -76,27 +71,23 @@
       "__resolveType": "site/sections/Images/ImageGrid.tsx",
       "images": [
         {
-          "desktop": "https://assets.decocache.com/demo-linkedin/b9a7bd3b-4eee-442b-a261-741e8f748fc4/5e1a3c5ba6b512f9ca24d6ae02bfdcac474a29f4.jpg",
-          "mobile": "https://assets.decocache.com/demo-linkedin/b9a7bd3b-4eee-442b-a261-741e8f748fc4/5e1a3c5ba6b512f9ca24d6ae02bfdcac474a29f4.jpg",
+          "desktop": "https://assets.decocache.com/demo-deco-day/0769fd9e-1876-4867-90ae-bd5c03f90f55/1742560212519-d26304f4-355b-48d0-b649-e24b9cbf0ded.png",
+          "mobile": "https://assets.decocache.com/demo-deco-day/0769fd9e-1876-4867-90ae-bd5c03f90f55/1742560212519-d26304f4-355b-48d0-b649-e24b9cbf0ded.png",
           "alt": "IMG 1",
           "width": 1000,
           "height": 1000
         },
         {
-          "action": {},
-          "src": "https://assets.decocache.com/demo-linkedin/b5bfae2f-f9fb-4b37-87c9-127eda21bce1/wrangler-video3.mp4",
-          "alt": "VIDEO 1",
+          "alt": "IMG 1",
           "width": 1000,
           "height": 1000,
-          "poster": "https://assets.decocache.com/demo-linkedin/e03b7221-75cc-417c-8af3-93931a93c235/f861a8453e5e7e7296125c4c3b2f12906f13f41e.jpg",
-          "autoplay": true,
-          "muted": true,
-          "loop": true
+          "desktop": "https://assets.decocache.com/demo-deco-day/0769fd9e-1876-4867-90ae-bd5c03f90f55/1742560212519-d26304f4-355b-48d0-b649-e24b9cbf0ded.png",
+          "mobile": "https://assets.decocache.com/demo-deco-day/0769fd9e-1876-4867-90ae-bd5c03f90f55/1742560212519-d26304f4-355b-48d0-b649-e24b9cbf0ded.png"
         },
         {
-          "desktop": "https://assets.decocache.com/demo-linkedin/6748a2ba-a1a7-49b9-ab2b-0d068c73ad1a/f1f01d5548c79854a34f4aa3055b237eff71a7b8.jpg",
-          "mobile": "https://assets.decocache.com/demo-linkedin/6748a2ba-a1a7-49b9-ab2b-0d068c73ad1a/f1f01d5548c79854a34f4aa3055b237eff71a7b8.jpg",
-          "alt": "IMAGE 2",
+          "desktop": "https://assets.decocache.com/demo-deco-day/0769fd9e-1876-4867-90ae-bd5c03f90f55/1742560212519-d26304f4-355b-48d0-b649-e24b9cbf0ded.png",
+          "mobile": "https://assets.decocache.com/demo-deco-day/0769fd9e-1876-4867-90ae-bd5c03f90f55/1742560212519-d26304f4-355b-48d0-b649-e24b9cbf0ded.png",
+          "alt": "IMG 1",
           "width": 1000,
           "height": 1000
         }
