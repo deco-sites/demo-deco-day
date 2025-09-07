@@ -54,12 +54,11 @@ export default function GallerySlider(props: Props) {
               {images.map((img, index) => (
                 <div class={clx(
                   "flex items-center w-[543px]  bg-[#EEEEEE] rounded-lg h-[885px]",
-                  isSmartphone && "px-20"
                 )}>
-                  <Image
+                  <img
                     class="w-full"
                     sizes="(max-width: 640px) 100vw, 40vw"
-                    style={{ aspectRatio: ASPECT_RATIO }}
+                    
                     src={img.url!}
                     alt={img.alternateName}
                     width={WIDTH}

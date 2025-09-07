@@ -4473,10 +4473,6 @@ details.collapse summary::-webkit-details-marker {
   padding-left: 0.625rem;
   padding-right: 0.625rem;
 }
-.px-20 {
-  padding-left: 5rem;
-  padding-right: 5rem;
-}
 .px-3 {
   padding-left: 0.75rem;
   padding-right: 0.75rem;
