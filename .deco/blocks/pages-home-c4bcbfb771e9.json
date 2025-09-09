@@ -2,12 +2,6 @@
   "name": "Home Page",
   "sections": [
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "Header"
-      }
-    },
-    {
       "__resolveType": "site/sections/Images/Carousel.tsx",
       "preload": true,
       "items": [
@@ -17,6 +11,12 @@
           "mobile": "https://assets.decocache.com/demo-deco-day/7c1fb064-eb19-445c-9e14-a5caa723d9e4/image.webp"
         }
       ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header"
+      }
     },
     {
       "__resolveType": "site/sections/Content/Benefits.tsx",
