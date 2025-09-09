@@ -61,7 +61,8 @@
         "products": {
           "__resolveType": "vtex/loaders/legacy/productList.ts",
           "props": {
-            "term": " ",
+            "term": "a",
+            "count": 10,
             "sort": ""
           }
         }
