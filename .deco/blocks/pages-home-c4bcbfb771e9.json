@@ -64,13 +64,30 @@
         "__resolveType": "website/flags/multivariate/section.ts",
         "variants": [
           {
+            "__resolveType": "site/sections/Content/Benefits.tsx",
+            "benefits": [
+              {
+                "text": "• Frete Grátis em compras a partir de R$ 50"
+              },
+              {
+                "text": "• Até R$ 200 de desconto na primeira compra"
+              },
+              {
+                "text": "• Parcelamento em até 12x sem juros"
+              },
+              {
+                "text": "• Até 15% de desconto à vista"
+              }
+            ]
+          },
+          {
             "value": {
               "__resolveType": "site/sections/Product/ProductShelf.tsx",
               "products": {
                 "__resolveType": "vtex/loaders/legacy/productList.ts",
                 "props": {
-                  "term": " ",
-                  "sort": ""
+                  "term": "sadsa ",
+                  "sort": "dsa"
                 }
               }
             }
@@ -93,6 +110,25 @@
         ]
       }
     },
+    {
+      "__resolveType": "site/sections/Images/SecondaryImageCarousel.tsx",
+      "images": [
+        {
+          "image": "https://assets.decocache.com/demo-deco-day/0769fd9e-1876-4867-90ae-bd5c03f90f55/1742560212519-d26304f4-355b-48d0-b649-e24b9cbf0ded.png",
+          "mobileImage": "https://assets.decocache.com/demo-deco-day/0769fd9e-1876-4867-90ae-bd5c03f90f55/1742560212519-d26304f4-355b-48d0-b649-e24b9cbf0ded.png",
+          "width": 1000,
+          "height": 461,
+          "alt": "Image 1"
+        },
+        {
+          "image": "https://assets.decocache.com/demo-deco-day/0769fd9e-1876-4867-90ae-bd5c03f90f55/1742560212519-d26304f4-355b-48d0-b649-e24b9cbf0ded.png",
+          "mobileImage": "https://assets.decocache.com/demo-deco-day/0769fd9e-1876-4867-90ae-bd5c03f90f55/1742560212519-d26304f4-355b-48d0-b649-e24b9cbf0ded.png",
+          "width": 1000,
+          "height": 461,
+          "alt": "Image 1"
+        }
+      ]
+    }
     {
       "__resolveType": "site/sections/Images/SecondaryImageCarousel.tsx",
       "images": [
