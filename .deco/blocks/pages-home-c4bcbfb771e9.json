@@ -128,7 +128,7 @@
           "alt": "Image 1"
         }
       ]
-    }
+    },
     {
       "__resolveType": "site/sections/Images/SecondaryImageCarousel.tsx",
       "images": [
